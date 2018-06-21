@@ -84,6 +84,7 @@ void* mmap(void* addr,size_t len, int prot, int flags, int fd, off_t offset);
 函数功能：从被映射文件fd偏移offset(通常是0)处，映射len字节到进程空间。
 
 ![mmap](mmap.svg)
+
 注意：映射相当于引用，而不是拷贝。
 
 内存映射区的保护由prot指定，使用下列常值。常见值是读写访问：PROT_READ|PROT_WRITE。
