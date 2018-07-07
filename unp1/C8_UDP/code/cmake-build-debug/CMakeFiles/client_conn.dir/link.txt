@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/client_conn.dir/client_conn.o CMakeFiles/client_conn.dir/home/tom/note_unix_network_program_1/Code/unp_base.o  -o client_conn 

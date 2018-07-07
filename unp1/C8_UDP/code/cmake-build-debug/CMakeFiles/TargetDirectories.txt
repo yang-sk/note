@@ -1,0 +1,7 @@
+/home/tom/note_unix_network_program_1/C8_UDP/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tom/note_unix_network_program_1/C8_UDP/code/cmake-build-debug/CMakeFiles/server_select.dir
+/home/tom/note_unix_network_program_1/C8_UDP/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tom/note_unix_network_program_1/C8_UDP/code/cmake-build-debug/CMakeFiles/client_2.dir
+/home/tom/note_unix_network_program_1/C8_UDP/code/cmake-build-debug/CMakeFiles/client_conn.dir
+/home/tom/note_unix_network_program_1/C8_UDP/code/cmake-build-debug/CMakeFiles/client.dir
+/home/tom/note_unix_network_program_1/C8_UDP/code/cmake-build-debug/CMakeFiles/server.dir

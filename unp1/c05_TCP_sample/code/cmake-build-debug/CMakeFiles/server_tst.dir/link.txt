@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/server_tst.dir/server_tst.o CMakeFiles/server_tst.dir/home/tom/note_unix_network_program_1/Code/unp_base.o  -o server_tst 

@@ -1,0 +1,4 @@
+/home/tom/note_unix_network_program_1/C9_SCTP_API/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tom/note_unix_network_program_1/C9_SCTP_API/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tom/note_unix_network_program_1/C9_SCTP_API/code/cmake-build-debug/CMakeFiles/time_client.dir
+/home/tom/note_unix_network_program_1/C9_SCTP_API/code/cmake-build-debug/CMakeFiles/time_server.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/time_client.dir/client.o CMakeFiles/time_client.dir/home/tom/note_unix_network_program_1/Code/unp_base.o  -o time_client 
